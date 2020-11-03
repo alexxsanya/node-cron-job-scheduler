@@ -1,0 +1,25 @@
+{
+  "name": "node-cron-job-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxsanya/node-cron-job-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxsanya/node-cron-job-scheduler/issues"
+  },
+  "homepage": "https://github.com/alexxsanya/node-cron-job-scheduler#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.14"
+  }
+}
